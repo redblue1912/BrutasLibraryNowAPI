@@ -1,0 +1,6 @@
+@BrutasLibraryNowAPI_HostAddress = http://localhost:5121
+
+GET {{BrutasLibraryNowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
